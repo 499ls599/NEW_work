@@ -1,5 +1,0 @@
-public class New_work_hello{
-  public static void main(String[]args){
-      System.out.println("项目__托管");
-  }
-}
